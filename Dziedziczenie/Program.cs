@@ -44,8 +44,8 @@ namespace Dziedziczenie
             Wektor wektor_res = wektor1.Add(wektor2);
             wektor_res.Print();
 
-            wektor_res = wektor1 + wektor2;
-            wektor_res.Print();
+            //wektor_res = wektor1 + wektor2;
+            //wektor_res.Print();
 
             wektor_res = wektor1 + 3.5;
             wektor_res.Print();
